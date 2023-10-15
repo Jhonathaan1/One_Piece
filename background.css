@@ -14,7 +14,7 @@
 }
 
 #background::after{
-    content: ;
+    content:'' ;
 
     width: inherit;
     height: inherit;
